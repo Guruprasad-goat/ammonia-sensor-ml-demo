@@ -1,0 +1,14 @@
+{
+  "features": [
+    "sensor_a",
+    "sensor_b",
+    "sensor_c",
+    "sensor_d"
+  ],
+  "labels": {
+    "0": "NORMAL (simulated)",
+    "1": "WARNING (simulated)",
+    "2": "CRITICAL (simulated)"
+  },
+  "data_note": "Synthetic educational data; not real ammonia sensor data."
+}
